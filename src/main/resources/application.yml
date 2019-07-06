@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: cdc-cqrs-mysql-kafka
+  h2:
+    console:
+      enabled: true
+      path: /h2-console
+
+
